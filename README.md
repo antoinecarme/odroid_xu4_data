@@ -9,7 +9,7 @@ https://magazine.odroid.com/odroid-xu4/
 
 It is based on an Exynos SAMSUNG 5422 Octa Core CPU (2 GHz Cortex-A15 Quad Core CPU + 1.4 GHz Cortex-A7 Quad Core CPU) with Heterogeneous Multi-Processing (big.LITTLE).
 
-It is fully sdupported in the Linux Ecosystem (Debian friendly).
+It is fully supported in the Linux Ecosystem (Debian friendly).
 
 https://wiki.debian.org/ArmHardFloatPort
 
