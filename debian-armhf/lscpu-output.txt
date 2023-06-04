@@ -1,0 +1,38 @@
+Architecture:                    armv7l
+Byte Order:                      Little Endian
+CPU(s):                          8
+On-line CPU(s) list:             0-7
+Vendor ID:                       ARM
+Model name:                      Cortex-A7
+Model:                           3
+Thread(s) per core:              1
+Core(s) per socket:              4
+Socket(s):                       1
+Stepping:                        r0p3
+CPU(s) scaling MHz:              100%
+CPU max MHz:                     1400.0000
+CPU min MHz:                     200.0000
+BogoMIPS:                        120.00
+Flags:                           half thumb fastmult vfp edsp neon vfpv3 tls vfpv4 idiva idivt vfpd32 lpae evtstrm
+Model name:                      Cortex-A15
+Model:                           3
+Thread(s) per core:              1
+Core(s) per socket:              4
+Socket(s):                       1
+Stepping:                        r2p3
+CPU(s) scaling MHz:              100%
+CPU max MHz:                     2000.0000
+CPU min MHz:                     200.0000
+BogoMIPS:                        120.00
+Flags:                           half thumb fastmult vfp edsp neon vfpv3 tls vfpv4 idiva idivt vfpd32 lpae evtstrm
+Vulnerability Itlb multihit:     Not affected
+Vulnerability L1tf:              Not affected
+Vulnerability Mds:               Not affected
+Vulnerability Meltdown:          Not affected
+Vulnerability Mmio stale data:   Not affected
+Vulnerability Retbleed:          Not affected
+Vulnerability Spec store bypass: Not affected
+Vulnerability Spectre v1:        Mitigation; __user pointer sanitization
+Vulnerability Spectre v2:        Vulnerable: Unprivileged eBPF enabled
+Vulnerability Srbds:             Not affected
+Vulnerability Tsx async abort:   Not affected
